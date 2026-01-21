@@ -1,64 +1,37 @@
 # HDC Host — Hosting Services Website
 
-🇧🇷  
-Este é um projeto de **site institucional para uma empresa fictícia de hospedagem**, chamado **HDC Host**.  
-O projeto está sendo desenvolvido como parte do meu aprendizado em **front-end**, com foco em **estruturação de layout, navegação e estilização com CSS**.
-
-🇺🇸  
-This is a **landing page / institutional website for a fictional hosting company**, called **HDC Host**.  
-The project is being developed as part of my **front-end learning journey**, focusing on **layout structure, navigation, and CSS styling**.
-
----
+Site institucional de uma empresa fictícia de hospedagem, desenvolvido com foco em apresentação de serviços, planos e contato, utilizando um layout moderno e responsivo.
 
 ## 📌 Sobre o projeto
 
-O **HDC Host** simula o site de uma empresa de hospedagem de sites, oferecendo uma interface moderna e simples, com seções como:
+O **HDC Host** é um website completo para uma empresa de hospedagem de sites, contendo:
 
-- Barra de navegação (navbar)  
-- Banner principal (hero section)  
-- Links para páginas de preços, contato e login
+- Barra de navegação com links principais
+- Banner principal (hero section)
+- Seção de serviços (segurança, performance e suporte)
+- Planos e preços
+- Busca de domínio
+- Formulário de contato
+- Rodapé institucional
 
-O objetivo principal é praticar a criação de **layouts responsivos**, organização de código HTML semântico e aplicação de estilos com **CSS puro**, sem o uso de frameworks.
-
-Este projeto será expandido gradualmente com novas seções, melhorias visuais e ajustes de responsividade.
-
----
-
-## 🎯 Objetivo
-
-- Praticar a estruturação de páginas HTML  
-- Criar e estilizar uma **navbar funcional**  
-- Trabalhar com posicionamento e layout em CSS  
-- Aplicar boas práticas de organização de código  
-- Versionar o projeto utilizando **Git e GitHub**  
-
----
+O projeto foi desenvolvido utilizando **HTML semântico** e **CSS puro**, com atenção à organização do layout, hierarquia visual e responsividade para diferentes tamanhos de tela.
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5  
-- CSS3  
-- Font Awesome (ícones)
+- HTML5
+- CSS3
+- Font Awesome
 
----
+## 🌐 Demonstração
 
-## 🛠️ Status do projeto
+🔗 GitHub Pages:  
+https://raaphyr.github.io/HDC-Host-Project/
 
-🚧 Em desenvolvimento — projeto de estudo.
+## 📂 Projeto
 
-Novas funcionalidades e seções serão adicionadas conforme o avanço nos estudos.
-
----
-
-## 📂 Nome do projeto
-
-- **Nome:** HDC Host  
+- **Nome:** HDC Host
 - **Repositório:** HDC-Host-Project
-
----
 
 ## 👤 Autor
 
-Desenvolvido por **Raaphyr**  
-📚 Estudante de Front-end
-
+Desenvolvido por **Raaphyr**
